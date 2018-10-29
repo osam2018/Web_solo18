@@ -1,0 +1,29 @@
+{
+  "firewall": [{
+  "ip": "127.0.0.1",
+  "protocol": "Tcp",
+  "usage": "해군정보화교육장",
+  "permit": "중대장"
+}, {
+"ip": "127.0.0.1",
+"protocol": "Tcp",
+"usage": "해군정보화교육장",
+"permit": "중대장"
+},{
+"ip": "127.0.0.1",
+"protocol": "Tcp",
+"usage": "해군정보화교육장",
+"permit": "중대장"
+},{
+"ip": "127.0.0.1",
+"protocol": "Tcp",
+"usage": "해군정보화교육장",
+"permit": "중대장"
+},{
+"ip": "127.0.0.1",
+"protocol": "Tcp",
+"usage": "해군정보화교육장",
+"permit": "중대장"
+}
+]
+}

@@ -1,0 +1,493 @@
+{
+"switch1":[
+  {
+    "index" : "1",
+    "run" : "O",
+    "dest" : "해군 정보화 교육장",
+    "patch" : "보안1-1",
+    "user" : "정보보안장교",
+    "device" : "VoIp"
+  }, {
+    "index" : "2",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "",
+    "user" : "", "device" : ""
+  },   {
+    "index" : "3",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "4",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "5",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "6",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "7",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "8",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "9",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "10",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "11",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "12",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "13",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "14",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "15",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "16",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "17",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "18",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "19",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "20",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "21",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "22",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "23",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "24",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "25",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "26",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "27",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "28",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "29",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "30",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "31",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "32",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "33",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "34",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "35",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "36",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "37",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "38",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "39",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "40",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "41",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "42",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "43",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "44",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "45",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "46",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "47",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  },  {
+    "index" : "48",
+    "run" : "X",
+    "dest" : "",
+    "patch" : "","user" : "", "device" : ""
+  }],
+  "switch2":[
+    {
+      "index" : "1",
+      "run" : "O",
+      "dest" : "해군 정보화 교육장",
+      "patch" : "보안1 2-1",
+      "user" : "정보 부사관",
+      "device" : "PC"
+    }, {
+      "index" : "2",
+      "run" : "O",
+      "dest" : "운용대대",
+      "patch" : "보안 1 1-1",
+      "user" : "파견교육생",
+      "device": "가상 PC"
+    },   {
+      "index" : "3",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "4",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "5",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "6",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "7",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "8",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "9",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "10",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "11",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "12",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "13",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "14",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "15",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "16",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "17",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "18",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "19",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "20",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "21",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "22",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "23",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "24",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "25",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "26",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "27",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "28",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "29",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "30",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "31",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "32",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "33",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "34",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "35",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "36",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "37",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "38",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "39",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "40",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "41",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "42",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "43",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "44",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "45",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "46",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "47",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    },  {
+      "index" : "48",
+      "run" : "X",
+      "dest" : "",
+      "patch" : "","user" : "", "device" : ""
+    }]
+}
